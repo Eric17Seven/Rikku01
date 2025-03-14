@@ -1,2 +1,2 @@
 # Rikku01
-First repo i've created
+First repo
